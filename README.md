@@ -17,6 +17,6 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/ahmadzayab)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmad-zayab-26387b240/)
 - 📧 ahmadzayab2003@gmail.com
 - [Portfolio](https://ahmadzayab.vercel.app)
